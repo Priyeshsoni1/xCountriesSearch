@@ -21,7 +21,7 @@ const Card = ({ Countries }) => {
     >
       <img src={flag} alt={name} width={"100px"} height={"100px"} />
 
-      <h3>{name}</h3>
+      <h2>{name}</h2>
     </div>
   );
 };
